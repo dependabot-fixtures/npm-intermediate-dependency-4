@@ -1,6 +1,6 @@
 {
   "name": "@dependabot-fixtures/npm-intermediate-dependency-4",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "a test fixture for testing transitive dependency updates",
   "main": "index.js",
   "scripts": {
