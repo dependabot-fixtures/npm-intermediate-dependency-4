@@ -1,3 +1,3 @@
 # npm-intermediate-dependency-4
 
-1.3.0
+2.0.0
